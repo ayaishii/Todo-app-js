@@ -1,2 +1,2 @@
-# Todo-app-ja
+# Todo-app-js
 Created with CodeSandbox
